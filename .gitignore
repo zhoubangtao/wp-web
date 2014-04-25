@@ -1,0 +1,12 @@
+## Jetbrains
+*.iml
+*.ipr
+*.iws
+.idea
+.svn
+
+# Eclipse
+.classpath
+.project
+.settings
+target
